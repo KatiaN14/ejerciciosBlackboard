@@ -7,6 +7,7 @@ ACA4832, RYR2781, MSR1032, UAL5389, AEA2334, KLM976
 #include <iostream>
 #include <ctime>
 using namespace std;
+
 int calcularSecuenciaAleatoria(int x)
 {
     int numaleat;
