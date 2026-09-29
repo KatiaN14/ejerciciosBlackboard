@@ -1,0 +1,4 @@
+/*
+Implemente un programa que permita rellenar de forma aleatoria estructuras como la del
+ejercicio anterior
+*/
